@@ -4,8 +4,8 @@ Installation
 Installtion is easy. Just run the following command
 ::
 
-    pip install git+https://github.com/SHTUVenus/vsub.git
-    
+    pip install git+https://github.com/livc/vsub
+
 
 >>>>>>>
 Example
